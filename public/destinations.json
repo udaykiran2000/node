@@ -1,0 +1,93 @@
+[
+    {
+        "id" : 1,
+        "destination" : "Mediterranean",
+        "price" : 7000,
+        "dates" : "Dec 17 - Dec 29",
+        "rooms" : 10,
+        "iterinary" : [
+            "Departure from Port",
+            "Explore Ancient Ruins",
+            "Relax on Secluded Beaches",
+            "Culinary Adventure",
+            "Cultural Discovery"
+        ],
+        "description" : "Embark on a Mediterranean cruise and immerse yourself in a tapestry of cultural wonders and breathtaking landscapes. From the historic allure of Rome's ancient ruins to the azure waters of the Greek Isles, each port is a gateway to a unique experience. Indulge in delectable Mediterranean cuisine, savoring flavors that mirror the richness of the region's history. Whether exploring the vibrant markets of Barcelona or lounging on the sun-kissed beaches of the Amalfi Coast, a Mediterranean cruise promises an unforgettable journey through the heart of Europe's coastal gems."
+    },
+    {
+        "id" : 2,
+        "destination" : "Carribean",
+        "price" : 3700,
+        "dates" : "Dec 12 - Dec 19",
+        "rooms" : 10,
+        "iterinary" : [
+            "Embarkation from Tropical Port",
+            "Island Excursion to Mayan Ruins",
+            "Day at Pristine Caribbean Beach",
+            "Tropical Cuisine Delight",
+            "Snorkeling Adventure in Coral Reefs"
+        ],
+        "description" : "Sail into the enchanting world of the Caribbean on a cruise that promises sun-soaked beaches, vibrant cultures, and turquoise waters. From the rhythmic beats of reggae in Jamaica to the colorful markets of St. Lucia, each island offers a unique slice of paradise. Indulge in the laid-back charm of the Caribbean lifestyle, where relaxation meets adventure in equal measure. Snorkel through coral reefs, unwind on pristine sandy shores, and immerse yourself in the lively rhythms of local music. A Caribbean cruise is a journey into a tropical haven, where every moment is a celebration of the region's vibrant spirit."
+    },
+    {
+        "id" : 3,
+        "destination" : "East Coast",
+        "price" : 6700,
+        "dates" : "Jan 15 - Jan 22",
+        "rooms" : 10,
+        "iterinary" : [
+            "Departure from Coastal City",
+            "City Exploration and Historical Sites",
+            "Scenic Coastal Drive",
+            "Seafood Feast in Quaint Harbor",
+            "Lighthouse Tour at Sunset"
+        ],
+        "description" : "Embark on an East Coast cruise, where the historic charm of New England meets the vibrant energy of bustling cities. Sail past iconic landmarks like the Statue of Liberty and explore the rich maritime history of ports like Boston and Charleston. Indulge in the diverse culinary scene, from lobster rolls in Maine to southern comfort food in the Carolinas. Admire the changing landscapes as you cruise from the colonial charm of Williamsburg to the picturesque shores of Key West. An East Coast cruise is a captivating journey through the heart of American history, where every port tells a unique and compelling story."
+    },
+    {
+        "id" : 4,
+        "destination" : "West Coast",
+        "price" : 4700,
+        "dates" : "Dec 6 - Dec 13",
+        "rooms" : 10,
+        "iterinary" : [
+            "Embarkation from Pacific Port",
+            "Redwood Forest Excursion",
+            "Wine Tasting in Napa Valley",
+            "Coastal Dining Experience",
+            "Sunset Cruise along California Coast"
+        ],
+        "description" : "Cruise along the captivating West Coast and witness a breathtaking blend of natural wonders and modern allure. From the iconic Golden Gate Bridge in San Francisco to the rugged beauty of Alaska's glaciers, each stop offers a panorama of diverse landscapes. Immerse yourself in the laid-back vibes of California's coastal towns, savoring fresh seafood in Seattle and exploring the artistic flair of Portland. As you navigate the Pacific, be enchanted by the scenic coastline and vibrant cityscapes, creating a West Coast cruise that seamlessly marries adventure with relaxation."
+
+    },
+    {
+        "id" : 5,
+        "destination" : "Trans Atlantic",
+        "price" : 2200,
+        "dates" : "Dec 4 - Dec 9",
+        "rooms" : 10,
+        "iterinary" : [
+            "Departure from European Port",
+            "Days at Sea - Relax and Enjoy Onboard Amenities",
+            "Port of Call in the Azores",
+            "Historical Exploration in Lisbon, Portugal",
+            "Arrival at American Port"
+        ],
+        "description" : "Embark on a transcendent voyage with a Transatlantic cruise, traversing the vast expanse between Europe and the Americas. Experience the timeless allure of the open sea as you sail from historic ports like Southampton to the bustling streets of New York City. Enrich your journey with days at sea, fostering a deep connection with the rhythm of the ocean. Revel in the luxurious amenities on board, from gourmet dining to enriching entertainment, as you traverse the Atlantic's ever-changing moods. A Transatlantic cruise is a grand odyssey, bridging continents and offering a unique blend of adventure and elegance on the high seas."
+    },
+    {
+        "id" : 6,
+        "destination" : "Trans Pacific",
+        "price" : 3200,
+        "dates" : "Dec 10 - Dec 17",
+        "rooms" : 10,
+        "iterinary" : [
+            "Embarkation from Asian Port",
+            "Island Hopping in the Pacific",
+            "Exploration of Polynesian Culture",
+            "Scenic Cruise along New Zealand Fjords",
+            "Arrival at Australian Port"
+    ],
+        "description" : "Embark on a mesmerizing Transpacific cruise, where the vastness of the Pacific Ocean unfolds a tapestry of diverse cultures and landscapes. Sail from the modern metropolis of Tokyo to the sun-drenched shores of Hawaii, and witness the transition from ancient traditions to tropical paradises. Days at sea offer a serene interlude, allowing you to connect with the ocean's rhythmic beauty. Indulge in the fusion of Asian and Pacific cuisines, and experience the magic of vibrant port cities like Sydney and Vancouver. A Transpacific cruise is a transcontinental odyssey, inviting you to explore the vast wonders of the Pacific Rim in unparalleled style and comfort."
+    }
+]
