@@ -90,7 +90,7 @@ const server = http.createServer((req, res) => {
 
 // it will first try to look for
 // environment variable, if not found then go for 5959
-const PORT= 5962;
+const PORT= 8039;
 
 // port, callback
 server.listen(PORT,()=> console.log(`Great our server is running on port ${PORT} `));
